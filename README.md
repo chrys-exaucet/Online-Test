@@ -1,7 +1,7 @@
 # Oline-test
 Cue is a Java SE based desktop  application for schools  surveys
 
-    For further informations, don't hesitate  to look at the documentation folder.
+       For further informations, don't hesitate  to look at the documentation folder.
 
 ## Prerequisites 
 
