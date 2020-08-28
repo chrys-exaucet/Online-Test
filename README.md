@@ -11,7 +11,6 @@ Cue is a Java SE based desktop  application for schools  surveys
 3. Execute the sql requests to create the student and teacher tables (QCM_Users_database file)
 4. Modify the user name of the database and the associated password
  in the jdbcProperties.txt property file (in src / jdbcProperties / jdbcProperties.properties)
-5.Launch the application in the main (src / surveyLauncher / QCMLauncher)
+5. Launch the application in the main (src / surveyLauncher / QCMLauncher)
 
-
-    Any trouble or insight? Feel free to open an isse.
+       Any trouble or insight? Feel free to open an isse.
