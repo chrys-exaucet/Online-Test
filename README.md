@@ -1,8 +1,6 @@
 # Online-test
 Cue is a Java SE based desktop  application for schools  surveys
-
-       For further informations, don't hesitate  to look at the documentation folder.
-
+ 
 ## Prerequisites 
 
 
@@ -12,5 +10,9 @@ Cue is a Java SE based desktop  application for schools  surveys
 4. Modify the user name of the database and the associated password
  in the jdbcProperties.txt property file (in src / jdbcProperties / jdbcProperties.properties)
 5. Launch the application in the main (src / surveyLauncher / QCMLauncher)
+
+     
+     
+        For further informations, don't hesitate  to look at the documentation folder.
 
        Any trouble or insight? Feel free to open an isse.
