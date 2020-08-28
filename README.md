@@ -15,4 +15,4 @@ Cue is a Java SE based desktop  application for schools  surveys
      
         For further informations, don't hesitate  to look at the documentation folder.
 
-       Any trouble or insight? Feel free to open an isse.
+       Any trouble or insight? Feel free to open an issue.
