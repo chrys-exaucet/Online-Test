@@ -1,18 +1,16 @@
-# Online-test
-Cue is a Java SE based desktop  application for schools  surveys
+# Online School Test
+Here's your favourite Java SE-based desktop  application for schools  surveys.
  
-## Prerequisites 
-
-
+### Prerequisites 
 1.  MySQL workbench 5.7+ an  IDE 
 2.  mysql-connector-java-5.1.40-bin.jar added  to the java classpath
-3. Execute the sql requests to create the student and teacher tables (QCM_Users_database file)
-4. Modify the user name of the database and the associated password
- in the jdbcProperties.txt property file (in src / jdbcProperties  / jdbcProperties.properties)
-5. Launch the application in the [ main file](src /surveyLauncher/QCMLauncher)
+
+### Run
+1. Execute the [sql file](sc/QCM_Users_database.sql) to create the student and teacher tables.
+2. Modify the user name of the database and the associated password in the [property file](src/jdbcProperties/jdbcProperties.properties).
+3. Launch the application in the [ main file](src/surveyLauncher/QCMLauncher).
 
      
-     
-        For further informations, don't hesitate  to look at the documentation folder.
+ For further intels, don't hesitate  to look at the documentation folder.
 
-       Any trouble or insight? Feel free to open an issue.
+ `Any trouble or insight? Feel free to open an issue`.
