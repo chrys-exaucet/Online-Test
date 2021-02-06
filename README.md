@@ -1,4 +1,4 @@
-# Online School Test
+# Cuelyzer
 Here's your favourite Java SE-based desktop  application for schools  surveys.
  
 ### Prerequisites 
